@@ -7,7 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  text-align: center;
+  /* text-align: center; */
   background-color: #efeeee;
 }
 .indexbox {
